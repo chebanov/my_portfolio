@@ -39,6 +39,10 @@
   .projects-section {
     padding: 6rem 1rem;
   }
+  .projects-grid {
+    grid-template-columns: 1fr;
+  }
+}
 
 @media (max-width: 28.75em) {
     .contact-section-header > h2 {
