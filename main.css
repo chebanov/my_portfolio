@@ -185,6 +185,7 @@ img {
   background-size: cover;
 }
 
+
 /* Projects section */
 
 .projects-section {
@@ -220,10 +221,7 @@ img {
   margin-bottom: 6rem;
 }
 
-  .projects-grid {
-    grid-template-columns: 1fr;
-  }
-}
+
 
 @media (max-width: 30.625em) {
   .projects-section {
